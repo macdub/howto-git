@@ -10,6 +10,9 @@ int main() {
     printf("X is %d\n", x);
 
     addOneByRef(x);
+    addOneByRef(x);
+    addOneByRef(x);
+    addOneByRef(x);
 
     printf("X is %d\n", x);
 }
