@@ -5,7 +5,7 @@ void addOneByRef(int& val) {
 }
 
 int main() {
-    int x = 3;
+    int x = 5;
 
     printf("X is %d\n", x);
 
